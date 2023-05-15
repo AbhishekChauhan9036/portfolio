@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Instagram Backend Clone",
+    "desc": "Backend Instagram clone built using Node,Express & MongoDB and realtime chat with the help of socket.iO",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/AbhishekChauhan9036/project-management",
+      "code": "https://github.com/AbhishekChauhan9036/project-management"
+    }
+  },
+  {
+    "name": "Quiz Application",
+    "desc": "A quiz application using React could provide an engaging and interactive user experience.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://quiz-app-navy-two.vercel.app/",
+      "code": "https://github.com/AbhishekChauhan9036/Flashcard-Quiz-App"
+    }
+  },
+  {
+    "name": "Song PlayList App",
+    "desc": "Basic Song Playlist App for better understaning of Object oriented design.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/AbhishekChauhan9036/Song-PlayList-App",
+      "code": "https://github.com/AbhishekChauhan9036/Song-PlayList-App"
+    }
+  },
+  {
+    "name": "Open To Intern",
+    "desc": "Developed a backend for a website where interns can apply for internships.",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/AbhishekChauhan9036/Open-to-Intern-Project-Requirement",
+      "code": "https://github.com/AbhishekChauhan9036/Open-to-Intern-Project-Requirement"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/AbhishekChauhan9036/next-portfolio"
+    }
+  }
+]
