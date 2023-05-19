@@ -15,7 +15,7 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to the Song Playlist App, please follow these steps:
+Contributions are welcome! If you'd like to contribute to my Portfolio, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
